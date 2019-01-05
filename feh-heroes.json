@@ -1,0 +1,886 @@
+{
+  "Abel": {
+    "title": "The Panther",
+    "gpedia_link": "https://feheroes.gamepedia.com/Abel:_The_Panther"
+  },
+  "Alfonse": {
+    "title": "Spring Prince",
+    "gpedia_link": "https://feheroes.gamepedia.com/Alfonse:_Spring_Prince"
+  },
+  "Alm": {
+    "title": "Hero of Prophecy",
+    "gpedia_link": "https://feheroes.gamepedia.com/Alm:_Hero_of_Prophecy"
+  },
+  "Amelia": {
+    "title": "Rose of the War",
+    "gpedia_link": "https://feheroes.gamepedia.com/Amelia:_Rose_of_the_War"
+  },
+  "Anna": {
+    "title": "Commander",
+    "gpedia_link": "https://feheroes.gamepedia.com/Anna:_Commander"
+  },
+  "Arden": {
+    "title": "Strong and Tough",
+    "gpedia_link": "https://feheroes.gamepedia.com/Arden:_Strong_and_Tough"
+  },
+  "Ares": {
+    "title": "Black Knight",
+    "gpedia_link": "https://feheroes.gamepedia.com/Ares:_Black_Knight"
+  },
+  "Arthur": {
+    "title": "Hapless Hero",
+    "gpedia_link": "https://feheroes.gamepedia.com/Arthur:_Hapless_Hero"
+  },
+  "Arvis": {
+    "title": "Emperor of Flame",
+    "gpedia_link": "https://feheroes.gamepedia.com/Arvis:_Emperor_of_Flame"
+  },
+  "Athena": {
+    "title": "Borderland Sword",
+    "gpedia_link": "https://feheroes.gamepedia.com/Athena:_Borderland_Sword"
+  },
+  "Aversa": {
+    "title": "Dark One",
+    "gpedia_link": "https://feheroes.gamepedia.com/Aversa:_Dark_One"
+  },
+  "Ayra": {
+    "title": "Astra's Wielder",
+    "gpedia_link": "https://feheroes.gamepedia.com/Ayra:_Astra%27s_Wielder"
+  },
+  "Azama": {
+    "title": "Carefree Monk",
+    "gpedia_link": "https://feheroes.gamepedia.com/Azama:_Carefree_Monk"
+  },
+  "Azura": {
+    "title": "Young Songstress",
+    "gpedia_link": "https://feheroes.gamepedia.com/Azura:_Young_Songstress"
+  },
+  "Barst": {
+    "title": "The Hatchet",
+    "gpedia_link": "https://feheroes.gamepedia.com/Barst:_The_Hatchet"
+  },
+  "Bartre": {
+    "title": "Fearless Warrior",
+    "gpedia_link": "https://feheroes.gamepedia.com/Bartre:_Fearless_Warrior"
+  },
+  "Berkut": {
+    "title": "Prideful Prince",
+    "gpedia_link": "https://feheroes.gamepedia.com/Berkut:_Prideful_Prince"
+  },
+  "Beruka": {
+    "title": "Quiet Assassin",
+    "gpedia_link": "https://feheroes.gamepedia.com/Beruka:_Quiet_Assassin"
+  },
+  "Black Knight": {
+    "title": "Sinister General",
+    "gpedia_link": "https://feheroes.gamepedia.com/Black_Knight:_Sinister_General"
+  },
+  "Boey": {
+    "title": "Skillful Survivor",
+    "gpedia_link": "https://feheroes.gamepedia.com/Boey:_Skillful_Survivor"
+  },
+  "Caeda": {
+    "title": "Talys's Heart",
+    "gpedia_link": "https://feheroes.gamepedia.com/Caeda:_Talys%27s_Heart"
+  },
+  "Cain": {
+    "title": "The Bull",
+    "gpedia_link": "https://feheroes.gamepedia.com/Cain:_The_Bull"
+  },
+  "Camilla": {
+    "title": "Tropical Beauty",
+    "gpedia_link": "https://feheroes.gamepedia.com/Camilla:_Tropical_Beauty"
+  },
+  "Camus": {
+    "title": "Sable Knight",
+    "gpedia_link": "https://feheroes.gamepedia.com/Camus:_Sable_Knight"
+  },
+  "Canas": {
+    "title": "Wisdom Seeker",
+    "gpedia_link": "https://feheroes.gamepedia.com/Canas:_Wisdom_Seeker"
+  },
+  "Catria": {
+    "title": "Spring Whitewing",
+    "gpedia_link": "https://feheroes.gamepedia.com/Catria:_Spring_Whitewing"
+  },
+  "Cecilia": {
+    "title": "Festive Instructor",
+    "gpedia_link": "https://feheroes.gamepedia.com/Cecilia:_Festive_Instructor"
+  },
+  "Celica": {
+    "title": "Warrior Priestess",
+    "gpedia_link": "https://feheroes.gamepedia.com/Celica:_Warrior_Priestess"
+  },
+  "Charlotte": {
+    "title": "Money Maiden",
+    "gpedia_link": "https://feheroes.gamepedia.com/Charlotte:_Money_Maiden"
+  },
+  "Cherche": {
+    "title": "Wyvern Friend",
+    "gpedia_link": "https://feheroes.gamepedia.com/Cherche:_Wyvern_Friend"
+  },
+  "Chrom": {
+    "title": "Spring Exalt",
+    "gpedia_link": "https://feheroes.gamepedia.com/Chrom:_Spring_Exalt"
+  },
+  "Clair": {
+    "title": "Highborn Flier",
+    "gpedia_link": "https://feheroes.gamepedia.com/Clair:_Highborn_Flier"
+  },
+  "Clarine": {
+    "title": "Refined Noble",
+    "gpedia_link": "https://feheroes.gamepedia.com/Clarine:_Refined_Noble"
+  },
+  "Clarisse": {
+    "title": "Sniper in the Dark",
+    "gpedia_link": "https://feheroes.gamepedia.com/Clarisse:_Sniper_in_the_Dark"
+  },
+  "Clive": {
+    "title": "Idealistic Knight",
+    "gpedia_link": "https://feheroes.gamepedia.com/Clive:_Idealistic_Knight"
+  },
+  "Cordelia": {
+    "title": "Perfect Bride",
+    "gpedia_link": "https://feheroes.gamepedia.com/Cordelia:_Perfect_Bride"
+  },
+  "Corrin": {
+    "title": "Novice Vacationer",
+    "gpedia_link": "https://feheroes.gamepedia.com/Corrin:_Novice_Vacationer"
+  },
+  "Deirdre": {
+    "title": "Lady of the Forest",
+    "gpedia_link": "https://feheroes.gamepedia.com/Deirdre:_Lady_of_the_Forest"
+  },
+  "Delthea": {
+    "title": "Free Spirit",
+    "gpedia_link": "https://feheroes.gamepedia.com/Delthea:_Free_Spirit"
+  },
+  "Donnel": {
+    "title": "Village Hero",
+    "gpedia_link": "https://feheroes.gamepedia.com/Donnel:_Village_Hero"
+  },
+  "Dorcas": {
+    "title": "Serene Warrior",
+    "gpedia_link": "https://feheroes.gamepedia.com/Dorcas:_Serene_Warrior"
+  },
+  "Draug": {
+    "title": "Gentle Giant",
+    "gpedia_link": "https://feheroes.gamepedia.com/Draug:_Gentle_Giant"
+  },
+  "Effie": {
+    "title": "Army of One",
+    "gpedia_link": "https://feheroes.gamepedia.com/Effie:_Army_of_One"
+  },
+  "Eir": {
+    "title": "Merciful Death",
+    "gpedia_link": "https://feheroes.gamepedia.com/Eir:_Merciful_Death"
+  },
+  "Eirika": {
+    "title": "Restoration Lady",
+    "gpedia_link": "https://feheroes.gamepedia.com/Eirika:_Restoration_Lady"
+  },
+  "Eldigan": {
+    "title": "Lionheart",
+    "gpedia_link": "https://feheroes.gamepedia.com/Eldigan:_Lionheart"
+  },
+  "Elincia": {
+    "title": "Lost Princess",
+    "gpedia_link": "https://feheroes.gamepedia.com/Elincia:_Lost_Princess"
+  },
+  "Elise": {
+    "title": "Tropical Flower",
+    "gpedia_link": "https://feheroes.gamepedia.com/Elise:_Tropical_Flower"
+  },
+  "Eliwood": {
+    "title": "Knight of Lycia",
+    "gpedia_link": "https://feheroes.gamepedia.com/Eliwood:_Knight_of_Lycia"
+  },
+  "Ephraim": {
+    "title": "Sparkling Gallantly",
+    "gpedia_link": "https://feheroes.gamepedia.com/Ephraim:_Sparkling_Gallantly"
+  },
+  "Est": {
+    "title": "Junior Whitewing",
+    "gpedia_link": "https://feheroes.gamepedia.com/Est:_Junior_Whitewing"
+  },
+  "Ethlyn": {
+    "title": "Spirited Princess",
+    "gpedia_link": "https://feheroes.gamepedia.com/Ethlyn:_Spirited_Princess"
+  },
+  "Fae": {
+    "title": "Holiday Dear",
+    "gpedia_link": "https://feheroes.gamepedia.com/Fae:_Holiday_Dear"
+  },
+  "Faye": {
+    "title": "Devoted Heart",
+    "gpedia_link": "https://feheroes.gamepedia.com/Faye:_Devoted_Heart"
+  },
+  "Felicia": {
+    "title": "Maid Mayhem",
+    "gpedia_link": "https://feheroes.gamepedia.com/Felicia:_Maid_Mayhem"
+  },
+  "Finn": {
+    "title": "Lance of Legend",
+    "gpedia_link": "https://feheroes.gamepedia.com/Finn:_Lance_of_Legend"
+  },
+  "Fir": {
+    "title": "Sword Student",
+    "gpedia_link": "https://feheroes.gamepedia.com/Fir:_Sword_Student"
+  },
+  "Fjorm": {
+    "title": "Princess of Ice",
+    "gpedia_link": "https://feheroes.gamepedia.com/Fjorm:_Princess_of_Ice"
+  },
+  "Flora": {
+    "title": "Cold as Ice",
+    "gpedia_link": "https://feheroes.gamepedia.com/Flora:_Cold_as_Ice"
+  },
+  "Florina": {
+    "title": "Lovely Flier",
+    "gpedia_link": "https://feheroes.gamepedia.com/Florina:_Lovely_Flier"
+  },
+  "Frederick": {
+    "title": "Polite Knight",
+    "gpedia_link": "https://feheroes.gamepedia.com/Frederick:_Polite_Knight"
+  },
+  "Gaius": {
+    "title": "Thief Exposed",
+    "gpedia_link": "https://feheroes.gamepedia.com/Gaius:_Thief_Exposed"
+  },
+  "Garon": {
+    "title": "King of Nohr",
+    "gpedia_link": "https://feheroes.gamepedia.com/Garon:_King_of_Nohr"
+  },
+  "Genny": {
+    "title": "Endearing Ally",
+    "gpedia_link": "https://feheroes.gamepedia.com/Genny:_Endearing_Ally"
+  },
+  "Gerome": {
+    "title": "Masked Rider",
+    "gpedia_link": "https://feheroes.gamepedia.com/Gerome:_Masked_Rider"
+  },
+  "Gharnef": {
+    "title": "Dark Pontifex",
+    "gpedia_link": "https://feheroes.gamepedia.com/Gharnef:_Dark_Pontifex"
+  },
+  "Gordin": {
+    "title": "Altean Archer",
+    "gpedia_link": "https://feheroes.gamepedia.com/Gordin:_Altean_Archer"
+  },
+  "Gray": {
+    "title": "Wry Comrade",
+    "gpedia_link": "https://feheroes.gamepedia.com/Gray:_Wry_Comrade"
+  },
+  "Gunnthr\u00e1": {
+    "title": "Year's First Dream",
+    "gpedia_link": "https://feheroes.gamepedia.com/Gunnthr%C3%A1:_Year%27s_First_Dream"
+  },
+  "Gunter": {
+    "title": "Inveterate Soldier",
+    "gpedia_link": "https://feheroes.gamepedia.com/Gunter:_Inveterate_Soldier"
+  },
+  "Gwendolyn": {
+    "title": "Adorable Knight",
+    "gpedia_link": "https://feheroes.gamepedia.com/Gwendolyn:_Adorable_Knight"
+  },
+  "Hana": {
+    "title": "Focused Samurai",
+    "gpedia_link": "https://feheroes.gamepedia.com/Hana:_Focused_Samurai"
+  },
+  "Hardin": {
+    "title": "Dark Emperor",
+    "gpedia_link": "https://feheroes.gamepedia.com/Hardin:_Dark_Emperor"
+  },
+  "Hawkeye": {
+    "title": "Desert Guardian",
+    "gpedia_link": "https://feheroes.gamepedia.com/Hawkeye:_Desert_Guardian"
+  },
+  "Hector": {
+    "title": "Marquess of Ostia",
+    "gpedia_link": "https://feheroes.gamepedia.com/Hector:_Marquess_of_Ostia"
+  },
+  "Helbindi": {
+    "title": "Savage Scourge",
+    "gpedia_link": "https://feheroes.gamepedia.com/Helbindi:_Savage_Scourge"
+  },
+  "Henry": {
+    "title": "Twisted Mind",
+    "gpedia_link": "https://feheroes.gamepedia.com/Henry:_Twisted_Mind"
+  },
+  "Hinata": {
+    "title": "Wild Samurai",
+    "gpedia_link": "https://feheroes.gamepedia.com/Hinata:_Wild_Samurai"
+  },
+  "Hinoka": {
+    "title": "Warrior Princess",
+    "gpedia_link": "https://feheroes.gamepedia.com/Hinoka:_Warrior_Princess"
+  },
+  "Hr\u00edd": {
+    "title": "Resolute Prince",
+    "gpedia_link": "https://feheroes.gamepedia.com/Hr%C3%ADd:_Resolute_Prince"
+  },
+  "Ike": {
+    "title": "Young Mercenary",
+    "gpedia_link": "https://feheroes.gamepedia.com/Ike:_Young_Mercenary"
+  },
+  "Inigo": {
+    "title": "Indigo Dancer",
+    "gpedia_link": "https://feheroes.gamepedia.com/Inigo:_Indigo_Dancer"
+  },
+  "Innes": {
+    "title": "Regal Strategician",
+    "gpedia_link": "https://feheroes.gamepedia.com/Innes:_Regal_Strategician"
+  },
+  "Ishtar": {
+    "title": "Thunder Goddess",
+    "gpedia_link": "https://feheroes.gamepedia.com/Ishtar:_Thunder_Goddess"
+  },
+  "Jaffar": {
+    "title": "Angel of Death",
+    "gpedia_link": "https://feheroes.gamepedia.com/Jaffar:_Angel_of_Death"
+  },
+  "Jagen": {
+    "title": "Veteran Knight",
+    "gpedia_link": "https://feheroes.gamepedia.com/Jagen:_Veteran_Knight"
+  },
+  "Jakob": {
+    "title": "Devoted Servant",
+    "gpedia_link": "https://feheroes.gamepedia.com/Jakob:_Devoted_Servant"
+  },
+  "Jamke": {
+    "title": "Prince of Verdane",
+    "gpedia_link": "https://feheroes.gamepedia.com/Jamke:_Prince_of_Verdane"
+  },
+  "Jeorge": {
+    "title": "Perfect Shot",
+    "gpedia_link": "https://feheroes.gamepedia.com/Jeorge:_Perfect_Shot"
+  },
+  "Joshua": {
+    "title": "Tempest King",
+    "gpedia_link": "https://feheroes.gamepedia.com/Joshua:_Tempest_King"
+  },
+  "Julia": {
+    "title": "Naga's Blood",
+    "gpedia_link": "https://feheroes.gamepedia.com/Julia:_Naga%27s_Blood"
+  },
+  "Julius": {
+    "title": "Scion of Darkness",
+    "gpedia_link": "https://feheroes.gamepedia.com/Julius:_Scion_of_Darkness"
+  },
+  "Kagero": {
+    "title": "Spring Ninja",
+    "gpedia_link": "https://feheroes.gamepedia.com/Kagero:_Spring_Ninja"
+  },
+  "Kana": {
+    "title": "Dragon Spawn",
+    "gpedia_link": "https://feheroes.gamepedia.com/Kana:_Dragon_Spawn"
+  },
+  "Karel": {
+    "title": "Sword Demon",
+    "gpedia_link": "https://feheroes.gamepedia.com/Karel:_Sword_Demon"
+  },
+  "Karla": {
+    "title": "Sword Vassal",
+    "gpedia_link": "https://feheroes.gamepedia.com/Karla:_Sword_Vassal"
+  },
+  "Katarina": {
+    "title": "Wayward One",
+    "gpedia_link": "https://feheroes.gamepedia.com/Katarina:_Wayward_One"
+  },
+  "Kaze": {
+    "title": "Easygoing Ninja",
+    "gpedia_link": "https://feheroes.gamepedia.com/Kaze:_Easygoing_Ninja"
+  },
+  "Klein": {
+    "title": "Silver Nobleman",
+    "gpedia_link": "https://feheroes.gamepedia.com/Klein:_Silver_Nobleman"
+  },
+  "Kliff": {
+    "title": "Curious Spirit",
+    "gpedia_link": "https://feheroes.gamepedia.com/Kliff:_Curious_Spirit"
+  },
+  "L'Arachel": {
+    "title": "Princess of Light",
+    "gpedia_link": "https://feheroes.gamepedia.com/L%27Arachel:_Princess_of_Light"
+  },
+  "Lachesis": {
+    "title": "Lionheart's Sister",
+    "gpedia_link": "https://feheroes.gamepedia.com/Lachesis:_Lionheart%27s_Sister"
+  },
+  "Laegjarn": {
+    "title": "Sheathed Steel",
+    "gpedia_link": "https://feheroes.gamepedia.com/Laegjarn:_Sheathed_Steel"
+  },
+  "Laevatein": {
+    "title": "Searing Steel",
+    "gpedia_link": "https://feheroes.gamepedia.com/Laevatein:_Searing_Steel"
+  },
+  "Laslow": {
+    "title": "Dancing Duelist",
+    "gpedia_link": "https://feheroes.gamepedia.com/Laslow:_Dancing_Duelist"
+  },
+  "Legault": {
+    "title": "The Hurricane",
+    "gpedia_link": "https://feheroes.gamepedia.com/Legault:_The_Hurricane"
+  },
+  "Legion": {
+    "title": "Masked Maniac",
+    "gpedia_link": "https://feheroes.gamepedia.com/Legion:_Masked_Maniac"
+  },
+  "Leif": {
+    "title": "Prince of Leonster",
+    "gpedia_link": "https://feheroes.gamepedia.com/Leif:_Prince_of_Leonster"
+  },
+  "Lene": {
+    "title": "Yearning Dancer",
+    "gpedia_link": "https://feheroes.gamepedia.com/Lene:_Yearning_Dancer"
+  },
+  "Leo": {
+    "title": "Sorcerous Prince",
+    "gpedia_link": "https://feheroes.gamepedia.com/Leo:_Sorcerous_Prince"
+  },
+  "Leon": {
+    "title": "True of Heart",
+    "gpedia_link": "https://feheroes.gamepedia.com/Leon:_True_of_Heart"
+  },
+  "Lewyn": {
+    "title": "Guiding Breeze",
+    "gpedia_link": "https://feheroes.gamepedia.com/Lewyn:_Guiding_Breeze"
+  },
+  "Libra": {
+    "title": "Fetching Friar",
+    "gpedia_link": "https://feheroes.gamepedia.com/Libra:_Fetching_Friar"
+  },
+  "Lilina": {
+    "title": "Delightful Noble",
+    "gpedia_link": "https://feheroes.gamepedia.com/Lilina:_Delightful_Noble"
+  },
+  "Linde": {
+    "title": "Summer Rays",
+    "gpedia_link": "https://feheroes.gamepedia.com/Linde:_Summer_Rays"
+  },
+  "Linus": {
+    "title": "Mad Dog",
+    "gpedia_link": "https://feheroes.gamepedia.com/Linus:_Mad_Dog"
+  },
+  "Lissa": {
+    "title": "Sprightly Cleric",
+    "gpedia_link": "https://feheroes.gamepedia.com/Lissa:_Sprightly_Cleric"
+  },
+  "Lloyd": {
+    "title": "White Wolf",
+    "gpedia_link": "https://feheroes.gamepedia.com/Lloyd:_White_Wolf"
+  },
+  "Loki": {
+    "title": "The Trickster",
+    "gpedia_link": "https://feheroes.gamepedia.com/Loki:_The_Trickster"
+  },
+  "Lon'qu": {
+    "title": "Solitary Blade",
+    "gpedia_link": "https://feheroes.gamepedia.com/Lon%27qu:_Solitary_Blade"
+  },
+  "Lucina": {
+    "title": "Spring Exalt",
+    "gpedia_link": "https://feheroes.gamepedia.com/Lucina:_Spring_Exalt"
+  },
+  "Lucius": {
+    "title": "The Light",
+    "gpedia_link": "https://feheroes.gamepedia.com/Lucius:_The_Light"
+  },
+  "Lukas": {
+    "title": "Sharp Soldier",
+    "gpedia_link": "https://feheroes.gamepedia.com/Lukas:_Sharp_Soldier"
+  },
+  "Luke": {
+    "title": "Rowdy Squire",
+    "gpedia_link": "https://feheroes.gamepedia.com/Luke:_Rowdy_Squire"
+  },
+  "Lute": {
+    "title": "Prodigy",
+    "gpedia_link": "https://feheroes.gamepedia.com/Lute:_Prodigy"
+  },
+  "Lyn": {
+    "title": "Wind's Embrace",
+    "gpedia_link": "https://feheroes.gamepedia.com/Lyn:_Wind%27s_Embrace"
+  },
+  "Lyon": {
+    "title": "Shadow Prince",
+    "gpedia_link": "https://feheroes.gamepedia.com/Lyon:_Shadow_Prince"
+  },
+  "Mae": {
+    "title": "Bundle of Energy",
+    "gpedia_link": "https://feheroes.gamepedia.com/Mae:_Bundle_of_Energy"
+  },
+  "Maria": {
+    "title": "Minerva's Sister",
+    "gpedia_link": "https://feheroes.gamepedia.com/Maria:_Minerva%27s_Sister"
+  },
+  "Maribelle": {
+    "title": "Dire Damsel",
+    "gpedia_link": "https://feheroes.gamepedia.com/Maribelle:_Dire_Damsel"
+  },
+  "Marisa": {
+    "title": "Crimson Flash",
+    "gpedia_link": "https://feheroes.gamepedia.com/Marisa:_Crimson_Flash"
+  },
+  "Marth": {
+    "title": "Hero-King",
+    "gpedia_link": "https://feheroes.gamepedia.com/Marth:_Hero-King"
+  },
+  "Mathilda": {
+    "title": "Legendary Knight",
+    "gpedia_link": "https://feheroes.gamepedia.com/Mathilda:_Legendary_Knight"
+  },
+  "Matthew": {
+    "title": "Faithful Spy",
+    "gpedia_link": "https://feheroes.gamepedia.com/Matthew:_Faithful_Spy"
+  },
+  "Merric": {
+    "title": "Wind Mage",
+    "gpedia_link": "https://feheroes.gamepedia.com/Merric:_Wind_Mage"
+  },
+  "Mia": {
+    "title": "Moonlit Witch",
+    "gpedia_link": "https://feheroes.gamepedia.com/Mia:_Moonlit_Witch"
+  },
+  "Micaiah": {
+    "title": "Summer's Dawn",
+    "gpedia_link": "https://feheroes.gamepedia.com/Micaiah:_Summer%27s_Dawn"
+  },
+  "Michalis": {
+    "title": "Ambitious King",
+    "gpedia_link": "https://feheroes.gamepedia.com/Michalis:_Ambitious_King"
+  },
+  "Mikoto": {
+    "title": "Caring Mother",
+    "gpedia_link": "https://feheroes.gamepedia.com/Mikoto:_Caring_Mother"
+  },
+  "Minerva": {
+    "title": "Red Dragoon",
+    "gpedia_link": "https://feheroes.gamepedia.com/Minerva:_Red_Dragoon"
+  },
+  "Mist": {
+    "title": "Helpful Sister",
+    "gpedia_link": "https://feheroes.gamepedia.com/Mist:_Helpful_Sister"
+  },
+  "Morgan": {
+    "title": "Lass from Afar",
+    "gpedia_link": "https://feheroes.gamepedia.com/Morgan:_Lass_from_Afar"
+  },
+  "Myrrh": {
+    "title": "Spooky Monster",
+    "gpedia_link": "https://feheroes.gamepedia.com/Myrrh:_Spooky_Monster"
+  },
+  "Nanna": {
+    "title": "Nordion Princess",
+    "gpedia_link": "https://feheroes.gamepedia.com/Nanna:_Nordion_Princess"
+  },
+  "Narcian": {
+    "title": "Wyvern General",
+    "gpedia_link": "https://feheroes.gamepedia.com/Narcian:_Wyvern_General"
+  },
+  "Navarre": {
+    "title": "Scarlet Sword",
+    "gpedia_link": "https://feheroes.gamepedia.com/Navarre:_Scarlet_Sword"
+  },
+  "Nephenee": {
+    "title": "Fierce Halberdier",
+    "gpedia_link": "https://feheroes.gamepedia.com/Nephenee:_Fierce_Halberdier"
+  },
+  "Niles": {
+    "title": "Forbidden Tease",
+    "gpedia_link": "https://feheroes.gamepedia.com/Niles:_Forbidden_Tease"
+  },
+  "Nina": {
+    "title": "Eye Spy",
+    "gpedia_link": "https://feheroes.gamepedia.com/Nina:_Eye_Spy"
+  },
+  "Ninian": {
+    "title": "Oracle of Destiny",
+    "gpedia_link": "https://feheroes.gamepedia.com/Ninian:_Oracle_of_Destiny"
+  },
+  "Nino": {
+    "title": "Pious Mage",
+    "gpedia_link": "https://feheroes.gamepedia.com/Nino:_Pious_Mage"
+  },
+  "Noire": {
+    "title": "Shade Seeker",
+    "gpedia_link": "https://feheroes.gamepedia.com/Noire:_Shade_Seeker"
+  },
+  "Nowi": {
+    "title": "Eternal Youth",
+    "gpedia_link": "https://feheroes.gamepedia.com/Nowi:_Eternal_Youth"
+  },
+  "Oboro": {
+    "title": "Fierce Fighter",
+    "gpedia_link": "https://feheroes.gamepedia.com/Oboro:_Fierce_Fighter"
+  },
+  "Odin": {
+    "title": "Potent Force",
+    "gpedia_link": "https://feheroes.gamepedia.com/Odin:_Potent_Force"
+  },
+  "Ogma": {
+    "title": "Loyal Blade",
+    "gpedia_link": "https://feheroes.gamepedia.com/Ogma:_Loyal_Blade"
+  },
+  "Oliver": {
+    "title": "Admirer of Beauty",
+    "gpedia_link": "https://feheroes.gamepedia.com/Oliver:_Admirer_of_Beauty"
+  },
+  "Olivia": {
+    "title": "Sky-High Dancer",
+    "gpedia_link": "https://feheroes.gamepedia.com/Olivia:_Sky-High_Dancer"
+  },
+  "Olwen": {
+    "title": "Righteous Knight",
+    "gpedia_link": "https://feheroes.gamepedia.com/Olwen:_Righteous_Knight"
+  },
+  "Ophelia": {
+    "title": "Dramatic Heroine",
+    "gpedia_link": "https://feheroes.gamepedia.com/Ophelia:_Dramatic_Heroine"
+  },
+  "Oscar": {
+    "title": "Agile Horseman",
+    "gpedia_link": "https://feheroes.gamepedia.com/Oscar:_Agile_Horseman"
+  },
+  "Owain": {
+    "title": "Chosen One",
+    "gpedia_link": "https://feheroes.gamepedia.com/Owain:_Chosen_One"
+  },
+  "Palla": {
+    "title": "Eldest Whitewing",
+    "gpedia_link": "https://feheroes.gamepedia.com/Palla:_Eldest_Whitewing"
+  },
+  "Peri": {
+    "title": "Playful Slayer",
+    "gpedia_link": "https://feheroes.gamepedia.com/Peri:_Playful_Slayer"
+  },
+  "Priscilla": {
+    "title": "Delicate Princess",
+    "gpedia_link": "https://feheroes.gamepedia.com/Priscilla:_Delicate_Princess"
+  },
+  "Quan": {
+    "title": "Luminous Lancer",
+    "gpedia_link": "https://feheroes.gamepedia.com/Quan:_Luminous_Lancer"
+  },
+  "Raigh": {
+    "title": "Dark Child",
+    "gpedia_link": "https://feheroes.gamepedia.com/Raigh:_Dark_Child"
+  },
+  "Raven": {
+    "title": "Peerless Fighter",
+    "gpedia_link": "https://feheroes.gamepedia.com/Raven:_Peerless_Fighter"
+  },
+  "Rebecca": {
+    "title": "Wildflower",
+    "gpedia_link": "https://feheroes.gamepedia.com/Rebecca:_Wildflower"
+  },
+  "Reinhardt": {
+    "title": "Thunder's Sword",
+    "gpedia_link": "https://feheroes.gamepedia.com/Reinhardt:_Thunder%27s_Sword"
+  },
+  "Rhajat": {
+    "title": "Black Magician",
+    "gpedia_link": "https://feheroes.gamepedia.com/Rhajat:_Black_Magician"
+  },
+  "Robin": {
+    "title": "Seaside Tactician",
+    "gpedia_link": "https://feheroes.gamepedia.com/Robin:_Seaside_Tactician"
+  },
+  "Roderick": {
+    "title": "Steady Squire",
+    "gpedia_link": "https://feheroes.gamepedia.com/Roderick:_Steady_Squire"
+  },
+  "Roy": {
+    "title": "Youthful Gifts",
+    "gpedia_link": "https://feheroes.gamepedia.com/Roy:_Youthful_Gifts"
+  },
+  "Ryoma": {
+    "title": "Supreme Samurai",
+    "gpedia_link": "https://feheroes.gamepedia.com/Ryoma:_Supreme_Samurai"
+  },
+  "Saber": {
+    "title": "Driven Mercenary",
+    "gpedia_link": "https://feheroes.gamepedia.com/Saber:_Driven_Mercenary"
+  },
+  "Saias": {
+    "title": "Bishop of Flame",
+    "gpedia_link": "https://feheroes.gamepedia.com/Saias:_Bishop_of_Flame"
+  },
+  "Saizo": {
+    "title": "Angry Ninja",
+    "gpedia_link": "https://feheroes.gamepedia.com/Saizo:_Angry_Ninja"
+  },
+  "Sakura": {
+    "title": "Loving Priestess",
+    "gpedia_link": "https://feheroes.gamepedia.com/Sakura:_Loving_Priestess"
+  },
+  "Sanaki": {
+    "title": "Begnion's Apostle",
+    "gpedia_link": "https://feheroes.gamepedia.com/Sanaki:_Begnion%27s_Apostle"
+  },
+  "Selena": {
+    "title": "Cutting Wit",
+    "gpedia_link": "https://feheroes.gamepedia.com/Selena:_Cutting_Wit"
+  },
+  "Seliph": {
+    "title": "Heir of Light",
+    "gpedia_link": "https://feheroes.gamepedia.com/Seliph:_Heir_of_Light"
+  },
+  "Serra": {
+    "title": "Outspoken Cleric",
+    "gpedia_link": "https://feheroes.gamepedia.com/Serra:_Outspoken_Cleric"
+  },
+  "Seth": {
+    "title": "Silver Knight",
+    "gpedia_link": "https://feheroes.gamepedia.com/Seth:_Silver_Knight"
+  },
+  "Setsuna": {
+    "title": "Absent Archer",
+    "gpedia_link": "https://feheroes.gamepedia.com/Setsuna:_Absent_Archer"
+  },
+  "Shanna": {
+    "title": "Sprightly Flier",
+    "gpedia_link": "https://feheroes.gamepedia.com/Shanna:_Sprightly_Flier"
+  },
+  "Sharena": {
+    "title": "Spring Princess",
+    "gpedia_link": "https://feheroes.gamepedia.com/Sharena:_Spring_Princess"
+  },
+  "Sheena": {
+    "title": "Princess of Gra",
+    "gpedia_link": "https://feheroes.gamepedia.com/Sheena:_Princess_of_Gra"
+  },
+  "Shigure": {
+    "title": "Uplifting Artist",
+    "gpedia_link": "https://feheroes.gamepedia.com/Shigure:_Uplifting_Artist"
+  },
+  "Shiro": {
+    "title": "Raw Talent",
+    "gpedia_link": "https://feheroes.gamepedia.com/Shiro:_Raw_Talent"
+  },
+  "Siegbert": {
+    "title": "Future King",
+    "gpedia_link": "https://feheroes.gamepedia.com/Siegbert:_Future_King"
+  },
+  "Sigurd": {
+    "title": "Holy Knight",
+    "gpedia_link": "https://feheroes.gamepedia.com/Sigurd:_Holy_Knight"
+  },
+  "Silas": {
+    "title": "Loyal Knight",
+    "gpedia_link": "https://feheroes.gamepedia.com/Silas:_Loyal_Knight"
+  },
+  "Silvia": {
+    "title": "Traveling Dancer",
+    "gpedia_link": "https://feheroes.gamepedia.com/Silvia:_Traveling_Dancer"
+  },
+  "Soleil": {
+    "title": "Adorable Adorer",
+    "gpedia_link": "https://feheroes.gamepedia.com/Soleil:_Adorable_Adorer"
+  },
+  "Sonya": {
+    "title": "Vengeful Mage",
+    "gpedia_link": "https://feheroes.gamepedia.com/Sonya:_Vengeful_Mage"
+  },
+  "Sophia": {
+    "title": "Nabata Prophet",
+    "gpedia_link": "https://feheroes.gamepedia.com/Sophia:_Nabata_Prophet"
+  },
+  "Soren": {
+    "title": "Shrewd Strategist",
+    "gpedia_link": "https://feheroes.gamepedia.com/Soren:_Shrewd_Strategist"
+  },
+  "Sothe": {
+    "title": "Zephyr",
+    "gpedia_link": "https://feheroes.gamepedia.com/Sothe:_Zephyr"
+  },
+  "Stahl": {
+    "title": "Viridian Knight",
+    "gpedia_link": "https://feheroes.gamepedia.com/Stahl:_Viridian_Knight"
+  },
+  "Subaki": {
+    "title": "Perfect Expert",
+    "gpedia_link": "https://feheroes.gamepedia.com/Subaki:_Perfect_Expert"
+  },
+  "Sully": {
+    "title": "Crimson Knight",
+    "gpedia_link": "https://feheroes.gamepedia.com/Sully:_Crimson_Knight"
+  },
+  "Sumia": {
+    "title": "Maid of Flowers",
+    "gpedia_link": "https://feheroes.gamepedia.com/Sumia:_Maid_of_Flowers"
+  },
+  "Surtr": {
+    "title": "Ruler of Flame",
+    "gpedia_link": "https://feheroes.gamepedia.com/Surtr:_Ruler_of_Flame"
+  },
+  "Tailtiu": {
+    "title": "Thunder Noble",
+    "gpedia_link": "https://feheroes.gamepedia.com/Tailtiu:_Thunder_Noble"
+  },
+  "Takumi": {
+    "title": "Wild Card",
+    "gpedia_link": "https://feheroes.gamepedia.com/Takumi:_Wild_Card"
+  },
+  "Tana": {
+    "title": "Winged Princess",
+    "gpedia_link": "https://feheroes.gamepedia.com/Tana:_Winged_Princess"
+  },
+  "Tharja": {
+    "title": "Obsessive Bride",
+    "gpedia_link": "https://feheroes.gamepedia.com/Tharja:_Obsessive_Bride"
+  },
+  "Tiki": {
+    "title": "Summering Scion",
+    "gpedia_link": "https://feheroes.gamepedia.com/Tiki:_Summering_Scion"
+  },
+  "Titania": {
+    "title": "Mighty Mercenary",
+    "gpedia_link": "https://feheroes.gamepedia.com/Titania:_Mighty_Mercenary"
+  },
+  "Tobin": {
+    "title": "The Clueless One",
+    "gpedia_link": "https://feheroes.gamepedia.com/Tobin:_The_Clueless_One"
+  },
+  "Ursula": {
+    "title": "Blue Crow",
+    "gpedia_link": "https://feheroes.gamepedia.com/Ursula:_Blue_Crow"
+  },
+  "Valter": {
+    "title": "Dark Moonstone",
+    "gpedia_link": "https://feheroes.gamepedia.com/Valter:_Dark_Moonstone"
+  },
+  "Veronica": {
+    "title": "Brave Princess",
+    "gpedia_link": "https://feheroes.gamepedia.com/Veronica:_Brave_Princess"
+  },
+  "Virion": {
+    "title": "Elite Archer",
+    "gpedia_link": "https://feheroes.gamepedia.com/Virion:_Elite_Archer"
+  },
+  "Walhart": {
+    "title": "The Conqueror",
+    "gpedia_link": "https://feheroes.gamepedia.com/Walhart:_The_Conqueror"
+  },
+  "Wrys": {
+    "title": "Kindly Priest",
+    "gpedia_link": "https://feheroes.gamepedia.com/Wrys:_Kindly_Priest"
+  },
+  "Xander": {
+    "title": "Student Swimmer",
+    "gpedia_link": "https://feheroes.gamepedia.com/Xander:_Student_Swimmer"
+  },
+  "Ylgr": {
+    "title": "Fresh Snowfall",
+    "gpedia_link": "https://feheroes.gamepedia.com/Ylgr:_Fresh_Snowfall"
+  },
+  "Zelgius": {
+    "title": "Jet-Black General",
+    "gpedia_link": "https://feheroes.gamepedia.com/Zelgius:_Jet-Black_General"
+  },
+  "Zephiel": {
+    "title": "The Liberator",
+    "gpedia_link": "https://feheroes.gamepedia.com/Zephiel:_The_Liberator"
+  }
+}
