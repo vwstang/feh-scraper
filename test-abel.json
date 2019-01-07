@@ -166,5 +166,19 @@
         29
       ]
     }
-  }
+  },
+  "defaultskills": [
+    "ironlance",
+    "steellance",
+    "bravelance",
+    "bravelance+",
+    "holyvestments",
+    "aegis",
+    "hp+3",
+    "hp+4",
+    "hp+5",
+    "swordbreaker1",
+    "swordbreaker2",
+    "swordbreaker3"
+  ]
 }

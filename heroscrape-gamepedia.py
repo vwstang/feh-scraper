@@ -42,8 +42,8 @@ def getSkills(skillTables):
   for skillTypes in skillTables:
     for i, skillRow in enumerate(skillTypes("tr")):
       if i > 0:
-        skills.append(skillRow.find("a").string.lower())
-  print(skills)
+        skills.append("".join(skillRow.find("a").string.lower().split(" ")))
+  return skills
 
 
 def grabData():
@@ -54,10 +54,10 @@ def grabData():
   heroData = {}
   lvl1Stats = getStats(soup.find("span",{"id": "Level_1_stats"}).parent.next_sibling.find_all("td"))
   lvl40Stats = getStats(soup.find("span",{"id": "Level_40_stats"}).parent.next_sibling.find_all("td"))
-  getSkills(soup("table",{"class": "skills-table"}))
-  # defaultWeapons = getSkills(soup.find("span",{"id": "Weapons"}).parent.next_sibling.find_all("a"))
+  defaultSkills = getSkills(soup("table",{"class": "skills-table"}))
   heroData.update({"lvl1stats": lvl1Stats,
-                   "lvl40stats": lvl40Stats})
+                   "lvl40stats": lvl40Stats,
+                   "defaultskills": defaultSkills})
   return heroData
 
 
@@ -66,7 +66,7 @@ def main():
                 "gpedia_link": "https://feheroes.gamepedia.com/Abel:_The_Panther"}
   heroData = grabData()
   sampleHero.update(heroData)
-  # with open("test-abel.json","w") as outfile:
-  #   json.dump(sampleHero,outfile)
+  with open("test-abel.json","w") as outfile:
+    json.dump(sampleHero,outfile)
 
 main()
