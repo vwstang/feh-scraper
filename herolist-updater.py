@@ -5,11 +5,6 @@ from bs4 import BeautifulSoup
 
 
 def grabTags():
-  # # LOCAL VERSION
-  # file = r"H:\Development\feh-scraper\dev-assets\190105\fehgp_heroes.html"
-  # soup = BeautifulSoup(open(file,encoding="utf8"),"html.parser")
-
-  # Make the soup from Fire Emblem Gamepedia
   url = "https://feheroes.gamepedia.com/Hero_list"
   response = requests.get(url)
   soup = BeautifulSoup(response.text, "html.parser")
@@ -18,6 +13,7 @@ def grabTags():
 
 
 def parseTags(tags):
+  print("Retrieved list of " + str(len(tags)) + " heroes.")
   heroes = {}
   for heroTag in tags:
     hero = {}
@@ -36,8 +32,9 @@ def parseTags(tags):
 def main():
   savedTags = grabTags()
   heroes = parseTags(savedTags)
-  with open("feh-heroes.json","w") as outfile:
+  with open("hero-list.json","w") as outfile:
     json.dump(heroes,outfile)
+  print("Output to hero-list.json complete.")
 
 
 main()

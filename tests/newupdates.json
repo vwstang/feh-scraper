@@ -1,0 +1,33 @@
+{
+  "abel_thepanther": {
+    "name": "Abel",
+    "title": "The Panther",
+    "gpedia_link": "https://feheroes.gamepedia.com/Abel:_The_Panther",
+    "testkey": "woooooo"
+  },
+  "alfonse_princeofaskr": {
+    "name": "Alfonse",
+    "title": "Prince of Askr",
+    "gpedia_link": "https://feheroes.gamepedia.com/Alfonse:_Prince_of_Askr"
+  },
+  "alfonse_springprince": {
+    "name": "Alfonse",
+    "title": "Spring Prince",
+    "gpedia_link": "https://feheroes.gamepedia.com/Alfonse:_Spring_Prince"
+  },
+  "alm_heroofprophecy": {
+    "name": "Alm",
+    "title": "Hero of Prophecy",
+    "gpedia_link": "https://feheroes.gamepedia.com/Alm:_Hero_of_Prophecy"
+  },
+  "amelia_roseofthewar": {
+    "name": "Amelia",
+    "title": "Rose of the War",
+    "gpedia_link": "https://feheroes.gamepedia.com/Amelia:_Rose_of_the_War"
+  },
+  "anna_commander": {
+    "name": "Anna",
+    "title": "Commander",
+    "gpedia_link": "https://feheroes.gamepedia.com/Anna:_Commander"
+  }
+}
