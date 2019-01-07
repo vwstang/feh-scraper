@@ -13,9 +13,7 @@ def grabTags():
   url = "https://feheroes.gamepedia.com/Hero_list"
   response = requests.get(url)
   soup = BeautifulSoup(response.text, "html.parser")
-  # print(soup.prettify())
   savedTags = soup("tr",{"class": "hero-filter-element"})
-  # savedTags = soup.find_all("tr", {"class": "hero-filter-element"})
   return savedTags
 
 
@@ -24,12 +22,14 @@ def parseTags(tags):
   for heroTag in tags:
     hero = {}
     heroName, heroTitle = heroTag.find("td").next_sibling.find("a").text.split(": ")
+    heroKey = heroName.lower() + "_" + "".join(heroTitle.lower().split(" "))
     heroGPLink = "https://feheroes.gamepedia.com" + heroTag.find("td").next_sibling.find("a")["href"]
     hero.update({
+      "name": heroName,
       "title": heroTitle,
       "gpedia_link": heroGPLink
     })
-    heroes[heroName] = hero
+    heroes[heroKey] = hero
   return heroes
 
 
