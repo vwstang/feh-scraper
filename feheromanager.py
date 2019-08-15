@@ -1,7 +1,7 @@
 # Fire Emblem Heroes - Hero Database Manager
 # Main App Module
 # 
-# v0.0.2
+# v0.0.3
 # 
 # Controls tasks to run based on user input
 

@@ -21,6 +21,7 @@ def getHeroList():
     heroKey = heroName.lower() + "_" + "".join(heroTitle.lower().split(" "))
     heroGPediaLink = "https://feheroes.gamepedia.com" + heroTag.find("td").next_sibling.find("a")["href"]
     dctHero.update({
+      "id": heroKey,
       "name": heroName,
       "title": heroTitle,
       "gpedia": heroGPediaLink
